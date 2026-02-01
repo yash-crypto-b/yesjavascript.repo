@@ -1,0 +1,17 @@
+let score = 102;
+let bonus = 25;
+ let totalScore = score + bonus;
+ let addition = 4+5;
+let subtraction = 10-3;
+let multiplication = 4*7;
+let division = 20/4;
+let modulus = 10%3;
+let exponentiation = 2**3;
+let  credits = 56;
+credits++;
+console.log("Total Score: " + totalScore);
+let num1 = 2;
+let num2 = 5;
+let num3 = 6;
+console.log(num1==num2);
+console.log(num1!=num2);
